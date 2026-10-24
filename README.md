@@ -10,7 +10,7 @@ To run this simulation, you will need:
 * **Python 3.x**
 * **An NVIDIA GPU** with CUDA support installed.
 * **Pygame** (for window management and rendering)
-* **CuPy** (for GPU-accelerated array operations)
+* **CuPy** (for GPU-accelerated array and wave calculations)
 
 ## How to Run
 
@@ -20,7 +20,7 @@ To run this simulation, you will need:
    ```
 2. Install requirements:
    ```bash
-   pip install cupy-cuda12x matplotlib numpy
+   pip install pygame cupy-cuda12x
    ```
 3. Run the script:
    ```bash
