@@ -1,13 +1,16 @@
 # Python 2D Wave Simulation
 
-A 2D wave simulation GPU-accelerated using CuPy (CUDA) for NVIDIA GPUs.
+A GPU-accelerated 2D water wave simulation built with Python, CuPy, and Pygame. This project leverages NVIDIA CUDA architecture to handle real-time simulation math efficiently on the GPU.
 
-## Prerequisites
+---
 
-- Python 3.x
-- NVIDIA GPU with CUDA support
-- [CuPy](https://cupy.dev/)
-- NumPy / Matplotlib (or whichever display libraries you use)
+## Prerequisites & Dependencies
+
+To run this simulation, you will need:
+* **Python 3.x**
+* **An NVIDIA GPU** with CUDA support installed.
+* **Pygame** (for window management and rendering)
+* **CuPy** (for GPU-accelerated array operations)
 
 ## How to Run
 
