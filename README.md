@@ -24,5 +24,5 @@ To run this simulation, you will need:
    ```
 3. Run the script:
    ```bash
-   python "2D Waves.py"
+   python "2D_Waves.py"
    ```
