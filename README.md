@@ -16,7 +16,7 @@ To run this simulation, you will need:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/AnOrangee-T/Python-2D-wave-simulation.git](https://github.com/AnOrangee-T/Python-2D-wave-simulation.git)
+   git clone https://github.com/AnOrangee-T/Python-2D-wave-simulation.git
    ```
 2. Install requirements:
    ```bash
